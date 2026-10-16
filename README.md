@@ -1,4 +1,5 @@
 # Customer Segmentation Studio
+#LIVE URL - https://customer-segmentation-studio-f8k2z4gxlacvogjrs8dycu.streamlit.app/
 
 A practical, portfolio-ready Streamlit application for customer segmentation with K-Means, the Elbow Method, Silhouette Score, preprocessing for mixed numerical/categorical data, PCA, cluster profiling, and CSV downloads.
 
