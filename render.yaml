@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: customer-segmentation-studio
+    runtime: docker
+    plan: starter
+    healthCheckPath: /_stcore/health
